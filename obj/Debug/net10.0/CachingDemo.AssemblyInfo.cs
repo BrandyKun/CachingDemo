@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CachingDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d373680fc8430515ecfe72c64b70461136508cac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff7399de570d06e875eb53b436b4be841b4b7c76")]
 [assembly: System.Reflection.AssemblyProductAttribute("CachingDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CachingDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
